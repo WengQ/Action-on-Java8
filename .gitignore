@@ -1,0 +1,13 @@
+.DS_Store
+*.iml
+target
+*.log
+.idea
+deploy
+.classpath
+.project
+.settings
+/assembly
+deploy/db/config/config.test
+out
+
